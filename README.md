@@ -11,9 +11,9 @@ I've wrote these *~1000* lines alone, I tested it, works well. Enables the abili
 # What is this for:
 #### I've made this project mostly for:
 * Others to analyze it
-* Commenting it
+* Sharing it
 * Learning from it
-* Running it and & use
+* Running & using it
 # How to use:
 1. Prepare your `Ollama` server with the model
 2. Take and download the source code (`DuckLY-L2.5.py`) script and run it with `Python`. No requirements there, as it depends only on pure standard library.
