@@ -16,7 +16,7 @@ I've wrote these *~1000* lines alone, I tested it, works well. Enables the abili
 * Running it and & use
 # How to use:
 1. Prepare your `Ollama` server with the model
-2. Take and download the source code (`DuckLY-L2.5`) script and run it with `Python`. No requirements there, as it depends only on pure standard library.
+2. Take and download the source code (`DuckLY-L2.5.py`) script and run it with `Python`. No requirements there, as it depends only on pure standard library.
 3. Run the code.
 4. Chat/talk to the assistant.
 5. Share some feedback if needed.
