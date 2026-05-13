@@ -1,42 +1,42 @@
 # DuckLY-Local-Assistant
 
-#### A local AI assistant built specifically for locally served Ollama servers.
+#### Локальный AI-ассистент, специально созданный для локальных серверов Ollama.
 
 ---
 
-## About this project
-This is an **open-source** `AI` project developed entirely in **pure Python**. My goal was to create it **without** relying on any external libraries — and I am proud to say it **succeeded**! 
+## О проекте
+Это **open-source** проект, полностью разработанный на **чистом Python**. Моя цель заключалась в создании его **без использования сторонних библиотек** — и я с гордостью могу сказать, что у меня это получилось! 
 
-I wrote approximately **1000 lines** of code on my own. It has been tested thoroughly and works well. The assistant offers features such as voice chatting, text messaging, and more!
-
----
-
-## Features
-- Voice chat
-- Text messaging
-- File and directory operations
-- **Agentic** capabilities, including analyzing files, repositories, and even creating or generating projects!
+Я написал примерно **1000 строк** кода самостоятельно. Проект прошёл тщательное тестирование и отлично работает. Ассистент предлагает такие функции, как голосовой чат, обмен текстовыми сообщениями и многое другое!
 
 ---
 
-## Purpose
-I developed this project primarily for:
-- Others to analyze and learn from
-- Sharing with the community
-- Personal experimentation and use
+## Возможности
+- Голосовой чат
+- Текстовые сообщения
+- Операции с файлами и папками
+- **Агентные** функции, включая анализ файлов, репозиториев и даже создание или генерацию проектов!
 
 ---
 
-## How to use
-1. Set up your `Ollama` server with the desired model.
-2. Download the source code (`DuckLY-L2.5.py`) and run it with Python. No external dependencies are required, as it relies solely on the Python standard library.
-3. Execute the script.
-4. Interact with the assistant via chat or voice.
-5. Feel free to provide feedback or suggestions!
-
-> **Note:** A pre-built executable is available via PyInstaller. You can download and run it directly on your hardware. It’s the same script packaged as a binary.
+## Цель
+Я разработал этот проект в первую очередь для:
+- Других для анализа и обучения
+- Общения в сообществе
+- Личных экспериментов и использования
 
 ---
 
-### License
-This project is licensed under the *GPLv3* License.
+## Как пользоваться
+1. Настройте ваш сервер `Ollama` с нужной моделью.
+2. Скачайте исходный код (`DuckLY-L2.5.py`) и запустите его с помощью Python. Внешние зависимости не требуются, так как он основан только на стандартной библиотеке `Python`.
+3. Запустите скрипт.
+4. Общайтесь с ассистентом через чат или голос.
+5. Не стесняйтесь делиться отзывами и предложениями!
+
+> **Примечание:** Предварительно собранный исполняемый файл доступен через PyInstaller. Вы можете скачать и запустить его прямо на вашем оборудовании. Это тот же скрипт, упакованный в бинарный файл.
+
+---
+
+### Лицензия
+Этот проект лицензирован по лицензии *GPLv3*.
